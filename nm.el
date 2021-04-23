@@ -5,6 +5,7 @@
 ;; Maintainer: Trevor Jim
 ;; URL: https://github.com/tjim/nevermore
 ;; Version: 1.1.0
+;; SPDX-License-Identifier: GPL-3.0-or-later
 ;; Package-Requires: ((notmuch "0.21") (peg "0.6") (company "0") (emacs "24.3"))
 
 ;; This file is not part of GNU Emacs.
